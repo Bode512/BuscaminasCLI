@@ -1,1 +1,1 @@
-# Buscaminas-CLI-
+# BuscaminasCLI
